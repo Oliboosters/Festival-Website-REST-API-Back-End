@@ -1,0 +1,48 @@
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.deps.json
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ref/ArtistLibrary.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.AssemblyReference.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfoInputs.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfo.cs
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.CoreCompileInputs.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ref/ArtistLibrary.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.deps.json
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ref/ArtistLibrary.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.AssemblyReference.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfoInputs.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfo.cs
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.CoreCompileInputs.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ref/ArtistLibrary.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.deps.json
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/bin/Debug/net5.0/ref/ArtistLibrary.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.AssemblyReference.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfoInputs.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfo.cs
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.CoreCompileInputs.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ref/ArtistLibrary.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.pdb
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.deps.json
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.dll
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/bin/Debug/net5.0/ref/ArtistLibrary.dll
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/bin/Debug/net5.0/ArtistLibrary.pdb
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.AssemblyReference.cache
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfoInputs.cache
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.AssemblyInfo.cs
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.csproj.CoreCompileInputs.cache
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.dll
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ref/ArtistLibrary.dll
+/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/Debug/net5.0/ArtistLibrary.pdb

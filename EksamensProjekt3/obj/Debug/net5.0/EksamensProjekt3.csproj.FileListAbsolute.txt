@@ -1,0 +1,243 @@
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/appsettings.json
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.exe
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.deps.json
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.json
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.dev.json
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/ref/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.AssemblyReference.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfoInputs.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfo.cs
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CoreCompileInputs.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.Manifest.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.xml
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/scopedcss/bundle/EksamensProjekt3.styles.css
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.RazorTargetAssemblyInfo.cache
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CopyComplete
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/ref/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.pdb
+C:/Users/olive/Desktop/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.genruntimeconfig.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/appsettings.json
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.exe
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.deps.json
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.json
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.dev.json
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/ref/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.AssemblyReference.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfoInputs.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfo.cs
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CoreCompileInputs.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.Manifest.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.xml
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/scopedcss/bundle/EksamensProjekt3.styles.css
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.RazorTargetAssemblyInfo.cache
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CopyComplete
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/ref/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.pdb
+C:/Users/olive/Desktop/Main Map/Zealand Computer Science/3 Semester (2021)/3.Semester Exams (2022)/3.Semester Projekt Final/Eksamen Projekt API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.genruntimeconfig.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/appsettings.json
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.exe
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.deps.json
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.json
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.dev.json
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/ref/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.AssemblyReference.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfoInputs.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfo.cs
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CoreCompileInputs.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.Manifest.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.xml
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/scopedcss/bundle/EksamensProjekt3.styles.css
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.RazorTargetAssemblyInfo.cache
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CopyComplete
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/ref/EksamensProjekt3.dll
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.pdb
+C:/Users/olive/Desktop/Festival Website (School Project)/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.genruntimeconfig.cache
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/appsettings.Development.json
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/appsettings.json
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.deps.json
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.json
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.runtimeconfig.dev.json
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/ref/EksamensProjekt3.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/EksamensProjekt3.pdb
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/bin/Debug/net5.0/ArtistLibrary.pdb
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.AssemblyReference.cache
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfoInputs.cache
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.AssemblyInfo.cs
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CoreCompileInputs.cache
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cs
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.MvcApplicationPartsAssemblyInfo.cache
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.Manifest.cache
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/staticwebassets/EksamensProjekt3.StaticWebAssets.xml
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/scopedcss/bundle/EksamensProjekt3.styles.css
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.RazorTargetAssemblyInfo.cache
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.csproj.CopyComplete
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/ref/EksamensProjekt3.dll
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.pdb
+/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/Debug/net5.0/EksamensProjekt3.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj",
+        "projectName": "ArtistLibrary",
+        "projectPath": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj",
+        "packagesPath": "/Users/Oliboosters/.nuget/packages/",
+        "outputPath": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Oliboosters/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

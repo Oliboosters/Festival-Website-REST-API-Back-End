@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3UnitTests/EksamensProjekt3UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj",
+        "projectName": "ArtistLibrary",
+        "projectPath": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj",
+        "packagesPath": "/Users/Oliboosters/.nuget/packages/",
+        "outputPath": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Oliboosters/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/EksamensProjekt3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/EksamensProjekt3.csproj",
+        "projectName": "EksamensProjekt3",
+        "projectPath": "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/EksamensProjekt3.csproj",
+        "packagesPath": "/Users/Oliboosters/.nuget/packages/",
+        "outputPath": "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Oliboosters/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj": {
+                "projectPath": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3UnitTests/EksamensProjekt3UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3UnitTests/EksamensProjekt3UnitTests.csproj",
+        "projectName": "EksamensProjekt3UnitTests",
+        "projectPath": "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3UnitTests/EksamensProjekt3UnitTests.csproj",
+        "packagesPath": "/Users/Oliboosters/.nuget/packages/",
+        "outputPath": "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Oliboosters/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj": {
+                "projectPath": "/Users/Oliboosters/Desktop/Back-End API/ArtistLibrary/ArtistLibrary.csproj"
+              },
+              "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/EksamensProjekt3.csproj": {
+                "projectPath": "/Users/Oliboosters/Desktop/Back-End API/EksamensProjekt3/EksamensProjekt3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
